@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**neonseri/neonseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+
+* Improving clinical trials patient recruitment, statistical genetics with Dr. Elizabeth Claus (Yale Biostatistics, BWH Neurosurgery).
+
+* Pandemic modeling using Twitter data with Dr. Samah Fodeh (Yale Emergency Department).
+
+* Assessing disability-friendly videos on Youtube with Dr. Yetsa Tuakli-Wosornu (Yale Chronic Disease Epidemiology).
+
+* Dissemination of HIV-related public health programs and information with Raquel Burgess (Yale Social Behavioral Sciences) and Leonardo Lizbinski (Brown School of Medicine).
+
+- 🌱 I’m currently learning SAR, GWR, and RNA-Seq.
+
+- 😄 Pronouns: He/him/his.
+
+- ⚡ Fun fact: I've been to 142 countries.  
