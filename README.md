@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on:
+- 💻  I’m currently working on:
 
    * Improving clinical trials patient recruitment, statistical genetics with Dr. Elizabeth Claus (Yale Biostatistics, BWH Neurosurgery).
 
@@ -13,5 +13,7 @@
 - 🌱 I’m currently learning SAR, GWR, and RNA-Seq.
 
 - 😄 Pronouns: He/him/his.
+
+- ⌚ Former: US Air Force enlistee, Google UXE, Facebook Hack Reactor fellow, and Accenture DE Javascript Developer.
 
 - ⚡ Fun fact: I've been to 142 countries.  
