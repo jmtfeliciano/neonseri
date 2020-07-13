@@ -15,6 +15,6 @@
 
 - 😄 Pronouns: He/him/his.
 
-- ⌚ Former: US Air Force enlistee, Google UXE, Facebook Hack Reactor fellow, and Accenture DE Javascript Developer.
+- ⌚ Past: US Air Force veteran, Google UXE, Facebook Hack Reactor fellow, and Accenture DE Javascript Developer.
 
 - ⚡ Fun fact: I've been to 142 countries.  
