@@ -6,6 +6,6 @@
 
  😄 Pronouns: He/him/his.
 
-⌚ Past: US Air Force veteran, Google UXE, and Facebook Hack Reactor fellow.
+⌚ Former: US Air Force veteran, Google UXE, and Facebook Hack Reactor fellow.
 
 ⚡ Fun fact: I've been to 142 countries.  
