@@ -11,6 +11,6 @@ const seri = {
      fellow: "Facebook Hack Reactor",
      president: "Yale SPH student body" 
   },
- learning: "Currenty learning SAR, GWR, RNA-Seq, and factor analysis."
+ learning: "SAR, GWR, RNA-Seq, and factor analysis."
 }
 ```
