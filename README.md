@@ -9,7 +9,8 @@ const seri = {
      veteran: "US Air Force",
      uxe: "Google",
      fellow: "Facebook Hack Reactor",
-     president: "Yale SPH student body" },
+     president: "Yale SPH student body" 
+  },
  learning: "Currenty learning SAR, GWR, RNA-Seq, and factor analysis."
 }
 ```
