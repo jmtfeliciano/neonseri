@@ -8,11 +8,10 @@ const seri = {
   code: [Javascript, R, HTML, CSS, SQL, SAS, Python, Java],
   tools: [Tidyverse, React, Redux, Node],
   former: {
-                        veteran: "US Air Force",
-                        uxe: "Google",
-                        fellow: "Facebook Hack Reactor"
-                        president: "Yale SPH student body"
-                      },
- challenge: "Currenty learning SAS, GWR, RNA-Seq, and factor analysis."
+     veteran: "US Air Force",
+     uxe: "Google",
+     fellow: "Facebook Hack Reactor",
+     president: "Yale SPH student body" },
+ learning: "Currenty learning SAR, GWR, RNA-Seq, and factor analysis."
 }
 ```
