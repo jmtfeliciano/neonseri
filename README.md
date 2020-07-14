@@ -2,7 +2,7 @@
 
  💻  I’m currently working on: improving RCT patient recruitment, statistical genetics with Dr. Elizabeth Claus (Yale Biostatistics, BWH Neurosurgery); pandemic modeling using Twitter data with Dr. Samah Fodeh (Yale Emergency Department); assessing disability-friendly videos on Youtube with Dr. Yetsa Tuakli-Wosornu (Yale Chronic Disease Epidemiology); and dissemination of HIV-related public health programs and information with Raquel Burgess (Yale Social Behavioral Sciences) and Leonardo Lizbinski (Brown School of Medicine).
 
-🌱 I’m currently learning SAR, GWR, and RNA-Seq.
+🌱 I’m currently learning SAR, GWR, and RNA-Seq, factor analysis.
 
  😄 Pronouns: He/him/his.
 
