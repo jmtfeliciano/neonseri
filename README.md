@@ -12,6 +12,6 @@ const seri = {
      fellow: "Facebook Hack Reactor",
      president: "Yale SPH student body" 
   },
- learning: "SAR, GWR, RNA-Seq, and factor analysis."
+ learning: "RNA-Seq, GWAS, Recurrent Neural Net (RNN) Language Models."
 }
 ```
