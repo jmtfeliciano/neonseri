@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/neonseri/neonseri/master/chaotic_banner.png)
+
 
 ```javascript
 const seri = {
