@@ -7,6 +7,7 @@ const seri = {
   code: [Javascript, R, HTML, CSS, SQL, SAS, Python, Java],
   tools: [Tidyverse, React, Redux, Node],
   former: {
+     valedictorian: "Phillips Exeter",
      enlisted: "US Air Force",
      uxe: "Google",
      fellow: "Facebook Hack Reactor",
