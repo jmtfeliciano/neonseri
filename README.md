@@ -9,7 +9,6 @@ const seri = {
   former: {
      valedictorian: "Phillips Exeter",
      enlisted: "US Air Force",
-     uxe: "Google",
      fellow: "Facebook Hack Reactor",
      president: "Yale SPH student body" 
   },
